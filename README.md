@@ -11,7 +11,7 @@
 │   ├── main.py             # Главная точка входа FastAPI
 │   ├── models.py           # SQLAlchemy модели
 │   ├── schemas.py          # Pydantic-схемы
-│   └── tasks.py            # Реализация долгой задачи и прогресса
+│   └── tasks.py            # Реализация долгой задачи
 ├── tests
 │   ├── conftest.py         # Настройки для тестов
 │   └── test_main.py        # Тесты API
