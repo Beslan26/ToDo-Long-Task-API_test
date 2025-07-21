@@ -25,8 +25,8 @@
 ### 1. Клонируйте репозиторий
 
 ```bash
-git clone <ссылка на репозиторий>
-cd <название_папки>
+git clone https://github.com/Beslan26/ToDo-Long-Task-API_test
+cd ToDo-Long-Task-API_test
 ```
 
 ### 2. Создайте и активируйте виртуальное окружение
